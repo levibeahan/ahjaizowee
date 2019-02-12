@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://eivighag.luizventurote.com/sitemap.xml
